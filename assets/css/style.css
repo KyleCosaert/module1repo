@@ -143,6 +143,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*all of these previous lines of code are for the text on the site*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -170,6 +171,7 @@ p {
     background-color: #4c7a53;
     color: #ffffff;
 }
+/*the last three lines of code are the descriptions from where the link takes you*/
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -197,6 +199,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*the descriptions for the header*/
 
 .footer {
     padding: 30px;
