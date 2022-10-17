@@ -5,15 +5,22 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #363636;
 }
+/*Changed background color to a darker shade so it doesn't hurt my eyes. */
 
 .header {
-    padding: 20px;
+    padding: 13px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #4c7a53;
     color: #ffffff;
+    position: fixed;
+    width: 100%;
 }
+/* Added a fixed header as well as making the width 100% of the page.
+   I also added a new color to give the webstie a different look than 
+   the other projects.
+   I made the header a smig smaller since it is fixed now.*/
 
 .header h1 {
     display: inline-block;
@@ -21,8 +28,9 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
+/*It bothered me because this was a different color so I removed it*/
 
 .header div {
     padding-top: 15px;
@@ -58,6 +66,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* main picture/heading picture of website*/
 
 .float-left {
     float: left;
@@ -83,8 +92,9 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #4c7a53;
 }
+/*This is the text box with cost management, brand awareness, and lead genereation*/
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -139,7 +149,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #4c7a53;
     color: #ffffff;
 }
 
@@ -148,7 +158,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #4c7a53;
     color: #ffffff;
 }
 
@@ -157,7 +167,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #4c7a53;
     color: #ffffff;
 }
 
